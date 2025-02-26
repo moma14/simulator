@@ -1,6 +1,8 @@
 {
   "expo": {
     "name": "simulator",
+    "squeme":"myapp",
+    "platforms": ["ios", "android", "web"],
     "slug": "simulator",
     "version": "1.0.0",
     "orientation": "portrait",
