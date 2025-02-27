@@ -34,8 +34,8 @@ const FirstScreen=()=>(
             source={require('../../../assets/Stegosaurio.webp')}
             style={styles.image}/>
         <Image
-        source={require('../../../assets/spinosaurus.webp')} 
-        style={styles.image}
+            source={require('../../../assets/spinosaurus.webp')} 
+            style={styles.image}
         />
     
 

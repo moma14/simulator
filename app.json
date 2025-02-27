@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "simulator",
-    "squeme":"myapp",
+    "scheme":"myapp",
     "platforms": ["ios", "android", "web"],
     "slug": "simulator",
     "version": "1.0.0",
