@@ -15,6 +15,8 @@ export default function Layout() {
         <Drawer.Screen name="index" options={{ drawerLabel: "Reloj" }} />
         <Drawer.Screen name="spino" options={{ drawerLabel: "Dinosaurios" }} />
         <Drawer.Screen name="flastlist" options={{ drawerLabel: "Listas" }} />
+        <Drawer.Screen name="modalScreen" options={{ drawerLabel: "Vista de modales" }} />
+        
       </Drawer>
     </GestureHandlerRootView>
   );
