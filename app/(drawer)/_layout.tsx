@@ -1,5 +1,4 @@
 import { Drawer } from "expo-router/drawer";
-
 //esto permite poder manejar los gestos de navegacion como el deslizar
 //el drawer
 import { GestureHandlerRootView } from "react-native-gesture-handler";

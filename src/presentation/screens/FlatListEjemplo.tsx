@@ -74,7 +74,7 @@ const styles=StyleSheet.create({
     displayText:{
         fontFamily:'16',
         color:'#333',
-        marginBottom:10,
+        marginTop:25,
     },
     container:{
         flex:1,
